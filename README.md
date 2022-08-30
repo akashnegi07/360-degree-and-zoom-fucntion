@@ -2,7 +2,6 @@
 implement 360 degree and zoom functionality over a content type. 
 
 **Steps to implement the same are listed below:**
-
 1)Create a image two image field one for carousal and one for 360 images.
 2) Using JS we implement Zoom functionality and 360 degree rotation of images.
 
